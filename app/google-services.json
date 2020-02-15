@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940188382319",
+    "firebase_url": "https://emailautores-d350d.firebaseio.com",
+    "project_id": "emailautores-d350d",
+    "storage_bucket": "emailautores-d350d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940188382319:android:3bcd9071b316a8f149499a",
+        "android_client_info": {
+          "package_name": "com.codingwithset.ear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940188382319-r3ku461gh957446nh0s1oacckai0pm0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithset.ear",
+            "certificate_hash": "36935bbb95484c082036193afdd7da75a3affded"
+          }
+        },
+        {
+          "client_id": "940188382319-uob9erv1d8hjl5j9mn7gqspotru9o5g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTT7DC67ZnEVaSjJi0hlEV0cGn3paqNxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940188382319-uob9erv1d8hjl5j9mn7gqspotru9o5g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
